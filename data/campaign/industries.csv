@@ -1,6 +1,6 @@
 id,name,cost mult,build time,income,upkeep,downgrade,upgrade,tags,data,image,plugin,desc,order
-in_mod_drug,Drug lab,60,90,,5,,,industry,,graphics/icons/industry/drug_lab.png,in_mod_drug,"This drug lab mass produces drugs for you, at a cost.",200
-in_mod_organ,artificial organ lab,60,360,,4,,,industry,,graphics/icons/industry/organ_lab.png,in_mod_organ,"This artificial organ lab produces organs for you to use with your population, Right, no funny business going on here, right? ",200
-in_mod_supplies,Supplies factory,60,360,,5,,,industry,,graphics/icons/industry/supplies_factory.png,in_mod_supplies,This massive supplies factory produces supples for you.,200
-in_mod_heavy_machinery,Heavy machinery factory,60,360,,5,,,industry,,graphics/icons/industry/heavy_machinery_factory.png,in_mod_heavy_machinery,This massive heavy machinery factory produces heavy machinery for you.,200
-in_mod_weapons_gun_factory,Gun factory,60,90,,5,,,industry,,graphics/icons/industry/gunsmithy.png,in_mod_weapons_gun_factory,"This gun factory may be old, but it will make a steady stream of guns for your marines",200
+STH_drug,Drug lab,60,90,,5,,,industry,,graphics/icons/industry/drug_lab.png,STH_drug,"This drug lab mass produces drugs for you, at a cost.",200
+STH_organ,artificial organ lab,60,360,,4,,,industry,,graphics/icons/industry/organ_lab.png,STH_organ,"This artificial organ lab produces organs for you to use with your population, Right, no funny business going on here, right? ",200
+STH_supplies,Supplies factory,60,360,,5,,,industry,,graphics/icons/industry/supplies_factory.png,STH_supplies,This massive supplies factory produces supples for you.,200
+STH_heavy_machinery,Heavy machinery factory,60,360,,5,,,industry,,graphics/icons/industry/heavy_machinery_factory.png,STH_heavy_machinery,This massive heavy machinery factory produces heavy machinery for you.,200
+STH_gun,Gun factory,60,90,,5,,,industry,,graphics/icons/industry/gunsmithy.png,STH_gun,"This gun factory may be old, but it will make a steady stream of guns for your marines",200
