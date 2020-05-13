@@ -2,7 +2,7 @@
 	"id":"mymod",
 	"name":"S.T.H. Industries",
 	"author":"SamTheHacker93",
-	"version":"0.1 prerelease",
+	"version":"0.2 prerelease",
 	"description":"This industry mod adds multiple different industries to produce stuff for you.",
 	"gameVersion":"0.9.1a-RC8",
 	"jars":["jars/industry.jar"],
