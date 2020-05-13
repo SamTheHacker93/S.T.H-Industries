@@ -1,0 +1,3 @@
+id,name,cost mult,build time,income,upkeep,downgrade,upgrade,tags,data,image,plugin,desc,order
+STH_drug,Drug lab,60,90,,5,,,industry,,graphics/icons/industry/drug_lab.png,STH_drug,"This drug lab mass produces drugs for you, at a cost.",200
+STH_organ,artificial organ lab,60,360,,4,,,industry,,graphics/icons/industry/organ_lab.png,STH_organ,"This artificial organ lab produces organs for you to use with your population, Right, no funny business going on here, right? ",200
